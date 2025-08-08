@@ -1,4 +1,10 @@
 Rosa trabajos de IOS 7w7
 
+<<<<<<< HEAD
 
 Intentar modificar p1
+=======
+HOLA ESTA ES MI MODIFICACION DEL PROYECTO
+
+Zzz
+>>>>>>> ba5d502d0d81cd75064b7cbf777bd080c5e51398
